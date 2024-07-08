@@ -1,6 +1,5 @@
 ---
 title: CJMCU-FT232HQ
-has_children: false
 nav_order: 1
 layout: default
 ---
