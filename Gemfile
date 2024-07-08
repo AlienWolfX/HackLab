@@ -5,3 +5,8 @@ gem "jekyll", "~> 4.3.3" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
+
+# Plugins
+# gem "jekyll-github-metadata"
+gem "jekyll-seo-tag"
+gem "jekyll-default-layout"
