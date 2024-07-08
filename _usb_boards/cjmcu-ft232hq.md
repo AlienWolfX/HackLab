@@ -5,7 +5,7 @@ layout: default
 ---
 
 <div style="text-align: center;">
-    <img src="/assets/images/cjmcu-ft232hq.jpg" alt="CJMCU-FT232H" width="300" height="200">
+    <img src="HackLab/assets/images/cjmcu-ft232hq.jpg" alt="CJMCU-FT232H" width="300" height="200">
 </div>
 
 The CJMCU FT232H is a breakout board that features the FT232H chip, which is a USB to multipurpose UART/FIFO IC made by FTDI. This chip can be used for a variety of purposes including USB to serial (UART) conversion, and also functions as a USB to JTAG, I²C, SPI, and GPIO interface.
