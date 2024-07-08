@@ -1,6 +1,6 @@
 title: HackLab
 baseurl: ""
-theme: just-the-docs
+# theme: just-the-docs
 permalink: '/:title'
 color_scheme: dark
 
